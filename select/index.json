@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "チリコンカン",
+  "base_artist": "Edel Note",
+  "createdAt": "2026-01-02T15:55:24.220159Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "チリコンカン",
+      "artist": "Edel Note",
+      "has_synced": true,
+      "path": "select/01_チリコンカン_Edel_Note.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チリコンカン",
+      "artist": "Edel Note",
+      "has_synced": false,
+      "path": "select/pl_01_チリコンカン_Edel_Note.txt"
+    }
+  ]
+}
